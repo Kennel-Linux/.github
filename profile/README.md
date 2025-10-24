@@ -11,6 +11,7 @@ There are many KL distros, each with their own unique features:
 - **KLU :** Any KL distro based on Ubuntu. Currently, the only KLU is [KLU-jam-XFCEbase](https://forum.puppylinux.com/viewtopic.php?t=7866), created by $${\color{red}@Wiak.}$$
 - **KL minis :** KL distros that are made to be "**very small**".
 - [Kennel Linux distros](https://forum.puppylinux.com/viewforum.php?f=231)
+- **Assemblies** from $${\color{red}@sofiya.}$$ [KLA-OT2baseCE](https://github.com/sofijacom/KLA-OT2baseCE) , [KLA-HyprlandCE](https://github.com/sofijacom/KLA-Hyprland) , [KLA-plasma-KDE-CE](https://github.com/sofijacom/KLA-plasma-KDE-CE) , [KLV-HyprlandCE](https://github.com/sofijacom/KLV-HyprlandCE) , [KLV-plasma-KDE-CE](https://github.com/sofijacom/KLV-plasma-KDE-CE) , [KLV-Spectrwm-CE](https://github.com/sofijacom/KLV-Spectrwm-CE) , You can find them on the website [Kennel Linux](https://sofijacom.github.io/) .
 
 
 <!--
