@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-This page will tell you a little about Kennel Linux.
-
 **Kennel Linux** (KL) — This Linux distribution family, which are discussed on the [Puppy Linux Discussion Forum](https://forum.puppylinux.com/viewforum.php?f=228).
 They are usually built using the **FIRSTRIB** assembly system - a collection of shell scripts that creates a root file system for downloading with a certain bootloader (for example, GRUB).
 Kennel Linux contains a desktop environment, utility and an application of a developer that implements a script.
